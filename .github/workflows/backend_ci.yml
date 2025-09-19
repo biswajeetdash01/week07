@@ -1,5 +1,5 @@
 # week07/.github/workflows/backend_ci.yml
-# Task 7.1P - New account CI pipeline 
+# Task 7.1P - CI trigger for biswajeetdash01 account
 name: Backend CI - Test, Build and Push Images to ACR
 
 # Trigger the workflow on pushes to the 'main' branch
